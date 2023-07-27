@@ -1,0 +1,36 @@
+.Body {
+    background-color: rgb(167, 167, 167);
+    font-family:'Courier New', Courier, monospace
+}
+
+.top{
+    text-align: center;
+    color: rgb(138, 43, 226);
+}
+
+.photo {
+    width: 400px;
+    background-color: rgb(138, 43, 226);
+    margin:265px;
+}
+
+.photo h3, p {
+    padding: 5px;
+}
+
+.date {
+    float: right;
+    color: rgb(30, 29, 29);
+    height: 7px;
+    margin-top: 1px;
+}
+
+.title {
+    float: center;
+    height: 7px;
+    margin-top: 1px;
+}
+
+.img {
+    width: inherit;
+}
